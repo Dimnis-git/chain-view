@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+
+}
+
+@layer components {
+
+    .icon {
+        @apply fill-current
+    }
+
+    .icon-xs {
+        @apply icon w-4 h-4
+    }
+
+    .icon-sm {
+        @apply icon w-6 h-6
+    }
+}
