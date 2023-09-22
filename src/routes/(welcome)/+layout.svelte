@@ -1,7 +1,7 @@
 <script>
     import 'iconify-icon';
-    import '../../app.css';
 	import { onMount } from 'svelte';
+    import '../../app.css';
 
     let theme = '';
 

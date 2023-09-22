@@ -1,6 +1,5 @@
 <script lang="ts">
     import vector from '$lib/assets/images/blockchain-vector.png';
-	import { onMount } from 'svelte';
     import 'vanilla-tilt';
 
     let eyeSize = "h-8"
