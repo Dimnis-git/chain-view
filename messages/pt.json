@@ -1,4 +1,6 @@
 {
 	"$schema": "https://inlang.com/schema/inlang-message-format",
-	"hello_world": "Olá, {name} do pt!"
+	"hello_world": "Olá, {name} do pt!",
+	"english": "Inglês",
+	"portuguese": "Português"
 }

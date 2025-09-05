@@ -1,12 +1,10 @@
 <script lang="ts">
-	import { setLocale } from '$lib/paraglide/runtime';
-	import { page } from '$app/state';
-	import { goto } from '$app/navigation';
+	// import { setLocale, } from '$lib/paraglide/runtime';
 	import { m } from '$lib/paraglide/messages.js';
 </script>
 
 <h1>{m.hello_world({ name: 'Renan' })}</h1>
-<div>
+<!-- <div>
 	<button onclick={() => setLocale('pt')}>pt</button>
 	<button onclick={() => setLocale('en')}>en</button>
 </div>
@@ -15,4 +13,4 @@
 		href="https://marketplace.visualstudio.com/items?itemName=inlang.vs-code-extension"
 		target="_blank">Sherlock i18n extension</a
 	> for a better i18n experience.
-</p>
+</p> -->
