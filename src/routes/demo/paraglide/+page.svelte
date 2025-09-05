@@ -5,7 +5,7 @@
 	import { m } from '$lib/paraglide/messages.js';
 </script>
 
-<h1>{m.hello_world({ name: 'SvelteKit User' })}</h1>
+<h1>{m.hello_world({ name: 'Renan' })}</h1>
 <div>
 	<button onclick={() => setLocale('pt')}>pt</button>
 	<button onclick={() => setLocale('en')}>en</button>

@@ -1,0 +1,15 @@
+{
+    "cSpell.words": [
+        "daisyui",
+        "inlang",
+        "outdir",
+        "paraglide",
+        "tailwindcss"
+    ],
+    "files.associations": {
+        "*.css": "tailwindcss"
+    },
+    "editor.quickSuggestions": {
+        "strings": "on"
+    }
+}
